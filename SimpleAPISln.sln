@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI", "src\SimpleAPI\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4CCB4B6F-F800-4E7C-9BDC-18DD7AD2D491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI.Test", "test\SimpleAPI.Test\SimpleAPI.TEST.csproj", "{69800C2D-B069-4E1A-B12F-A77E7642E439}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI.Test", "test\SimpleAPI.TEST\SimpleAPI.TEST.csproj", "{69800C2D-B069-4E1A-B12F-A77E7642E439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
