@@ -14,7 +14,7 @@ variables:
 
 steps:
 
-- task: DotNoteCoreCLI@2
+- task: DotNetCoreCLI@2
   inputs:
    command: test
    projects: '**/*Test/*.csproj'
